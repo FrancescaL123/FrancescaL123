@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrancescaL123
-- 👀 I’m interested in programming, particularly python, as that is the software I am currently focusing on. I do hope to focus on other sofware in the near future.
+- 👀 I’m interested in programming, particularly python, as that is the software I am currently focusing on. I do hope to focus on other software in the near future.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects (although only entry/begineer level so far, as I'm pretty new to it).
+- 💞️ I’m looking to collaborate on python projects (although only entry/beginner level so far, as I'm pretty new to it).
 - 📫 How to reach me francesca_lee@workmail.com
 
 <!---
